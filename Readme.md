@@ -291,11 +291,11 @@ Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt, oder zumindest
 ### Hello, I"m Sebastian 👋
 
 #### About me
-I"m a passionate open source enthusiast and am interested in making systems, networks and programs secure. 
+I'm a passionate open source enthusiast and am interested in making systems, networks and programs secure. 
 And to check them for their security. My goal is to always develop and improve myself 🧠🏋️.
 
 
-- 🔭 I"m currently studying Computer Sciece at the Technische Hochschle in Brandenburg.
+- 🔭 I'm currently studying Computer Sciece at the Technische Hochschle in Brandenburg.
 - 🌱 At the moment I"m constantly looking for technical challenges.
 - 👯 Meet with friends in the [Chaostreff Potsdam](https://www.ccc-p.org/) 🚀 and in the [Brandenburger Linux User Group](https://www.bralug.de/) 🐧.
 - ⚡ Fun fact: I love swimming  🏊‍♂️.
