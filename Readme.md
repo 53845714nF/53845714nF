@@ -3,7 +3,7 @@ English version below
 ### Hallo ich bin Sebastian 👋
 
 #### Über mich
-Ich bin leidenschtlicher Open Source Enthusiast und interessiere mich Systeme, Netzwerke und Programme 
+Ich bin leidenschaftlicher Open Source Enthusiast und interessiere mich Systeme, Netzwerke und Programme 
 sicher zu gestalten, sowie diese auf ihre Sicherheit zu prüfen. 
 Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern 🧠🏋️.
 
