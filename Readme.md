@@ -105,7 +105,7 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern 🧠�
 </p>
 
 ##### Werkzeuge:
-Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt, oder zumindesten längerfristig benutzt habe.
+Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt oder zumindestens längerfristig benutzt habe.
 
 ##### Sicherheit:
 <p align="left">
