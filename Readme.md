@@ -48,6 +48,9 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 	<a href="https://www.php.net/" target="_blank">
 		<img src="img/php.png" alt="php" width="40" height="40" />
 	</a>
+	<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
+		<img src="img/java.png" alt="java" width="40" height="40" />
+	</a>
 </p>
 
 ##### Libraries und Frameworks:
@@ -335,6 +338,9 @@ And to check them for their security. My goal is to always develop and improve m
 	</a>
 	<a href="https://www.php.net/" target="_blank">
 		<img src="img/php.png" alt="php" width="40" height="40" />
+	</a>
+	<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
+		<img src="img/java.png" alt="java" width="40" height="40" />
 	</a>
 </p>
 
