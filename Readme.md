@@ -528,7 +528,7 @@ A small list of tools that I use, have setup, or at least have used for a long t
 ##### Monitoring:
 <p align="left">
 	</a> <a href="https://grafana.com/" target="_blank">
-		<img src="img/grafana.png" alt="Grafana" width="40" height="40" />
+		<img src="icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40" />
 	</a>
 	</a> <a href="https://www.librenms.org/" target="_blank">
 		<img src="img/Librenms.png" alt="Librenms" width="40" height="40" />
