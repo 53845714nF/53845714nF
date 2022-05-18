@@ -24,7 +24,7 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ğŸ§ ğŸ
 ##### Progmmiersprachen:
 <p align="left">
 	<a href="https://www.arduino.cc/" target="_blank">
-		<img src="img/arduino.png" alt="arduino" width="40" height="40" />
+		<img src="icons/Arduino.svg" alt="arduino" width="40" height="40" />
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
 		<img src="img/bash.png" alt="bash" width="40" height="40" />
