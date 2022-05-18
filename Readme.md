@@ -295,8 +295,8 @@ Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt oder zumindeste
 <summary>
   Klick👆
 </summary>
-<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true" />
-<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8" />
+<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true&theme=dark" />
+<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&show_icons=true&hide_border=true&theme=dark" />
 </details>
 
 ---
@@ -594,6 +594,6 @@ A small list of tools that I use, have setup, or at least have used for a long t
 <summary>
   Click👆
 </summary>
-<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true" />
-<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8" />
+<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true&theme=dark" />
+<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&show_icons=true&hide_border=true&theme=dark" />
 </details>
