@@ -91,7 +91,7 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 ##### Auszeichnungssprache:
 <p align="left">
 	<a href="https://www.latex-project.org/" target="_blank">
-		<img src="icons/LaTeX.svg" alt="LaTex" width="80" height="40" />
+		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="80" height="40" />
 	</a>
 	<a href="https://daringfireball.net/projects/markdown/" target="_blank">
 		<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
@@ -327,13 +327,10 @@ And to check them for their security. My goal is to always develop and improve m
 		<img src="icons/Arduino.svg" alt="arduino" width="40" height="40" />
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
-		<img src="img/bash.png" alt="bash" width="40" height="40" />
+		<img src="icons/Bash-Dark.svg" alt="bash" width="40" height="40" />
 	</a>
 	<a href="https://www.python.org" target="_blank">
-		<img src="img/python.png" alt="python" width="40" height="40" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="img/javascript.png" alt="javascript" width="40" height="40" />
+		<img src="icons/Python-Dark.svg" alt="python" width="40" height="40" />
 	</a>
 </p>
 
@@ -341,16 +338,16 @@ And to check them for their security. My goal is to always develop and improve m
 ###### Less experience with:
 <p align="left">
 	<a href="https://golang.org/" target="_blank">
-		<img src="img/go.png" alt="golandg" width="40" height="40" />
+		<img src="icons/GoLang.svg" alt="golandg" width="40" height="40" />
 	</a>
 	<a href="https://www.lua.org/start.html" target="_blank">
-		<img src="img/lua.png" alt="lua" width="40" height="40" />
+		<img src="icons/Lua-Dark.svg" alt="lua" width="40" height="40" />
 	</a>
 	<a href="https://www.php.net/" target="_blank">
-		<img src="img/php.png" alt="php" width="40" height="40" />
+		<img src="icons/PHP-Dark.svg" alt="php" width="40" height="40" />
 	</a>
 	<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
-		<img src="img/java.png" alt="java" width="40" height="40" />
+		<img src="icons/Java-Dark.svg" alt="java" width="40" height="40" />
 	</a>
 </p>
 
@@ -360,7 +357,7 @@ And to check them for their security. My goal is to always develop and improve m
 		<img src="img/BS.png" alt="BeautifulSoup" width="40" height="40" />
 	</a>
 	<a href="https://flask.palletsprojects.com/" target="_blank">
-		<img src="img/flask.png" alt="flask" width="40" height="40" />
+		<img src="icons/Flask-Dark.svg" alt="flask" width="40" height="40" />
 	</a>
 	<a href="https://love2d.org/" target="_blank">
 		<img src="img/love2d.png" alt="love2d" width="40" height="40" />
@@ -395,10 +392,10 @@ And to check them for their security. My goal is to always develop and improve m
 ##### Markup language:
 <p align="left">
 	<a href="https://www.latex-project.org/" target="_blank">
-		<img src="img/LaTex.png" alt="LaTex" width="80" height="40" />
+		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="80" height="40" />
 	</a>
 	<a href="https://daringfireball.net/projects/markdown/" target="_blank">
-		<img src="img/Markdown.png" alt="Markdown" width="40" height="40" />
+		<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
 	</a>
 </p>
 
@@ -443,33 +440,36 @@ A small list of tools that I use, have setup, or at least have used for a long t
 ##### Software versioning:
 <p align="left">
 	</a> <a href="https://git-scm.com/" target="_blank">
-		<img src="img/git.png" alt="git" width="40" height="40" />
+		<img src="icons/Git.svg" alt="git" width="40" height="40" />
 	</a>
 	<a href="https://www.gitea.com/" target="_blank">
 		<img src="img/gitea.png" alt="Gitea" width="40" height="40" />
 	</a>
 	<a href="https://github.com/" target="_blank">
-		<img src="img/github.png" alt="Github" width="40" height="40" />
+		<img src="icons/Github-Dark.svg" alt="Github" width="40" height="40" />
 	</a>
 	<a href="https://about.gitlab.com" target="_blank">
-		<img src="img/gitlab.png" alt="GitLab" width="40" height="40" />
+		<img src="icons/GitLab-Dark.svg" alt="GitLab" width="40" height="40" />
 	</a>
 </p>
 
 ##### Text editor:
 <p align="left">
 	</a> <a href="https://www.sublimetext.com/" target="_blank">
-		<img src="img/sublime.png" alt="Sublime" width="40" height="40" />
+		<img src="icons/SublimeText.svg" alt="Sublime" width="40" height="40" />
 	</a>
 	</a> <a href="https://www.vim.org/" target="_blank">
-		<img src="img/vim.png" alt="Vim" width="40" height="40" />
+		<img src="icons/VIM-Dark.svg" alt="Vim" width="40" height="40" />
+	</a>
+	</a> <a href="https://www.eclipse.org/" target="_blank">
+		<img src="icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40" />
 	</a>
 </p>
 
 ##### Virtualization:
 <p align="left">
 	</a> <a href="https://www.docker.com/" target="_blank">
-		<img src="img/docker.png" alt="Docker" width="40" height="40" />
+		<img src="icons/Docker.svg" alt="Docker" width="40" height="40" />
 	</a>
 	</a> <a href="https://linuxcontainers.org/" target="_blank">
 		<img src="img/lxc.png" alt="LCX" width="40" height="40" />
