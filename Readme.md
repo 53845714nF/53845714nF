@@ -140,33 +140,36 @@ Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt oder zumindeste
 ##### Software Versionierung:
 <p align="left">
 	</a> <a href="https://git-scm.com/" target="_blank">
-		<img src="img/git.png" alt="git" width="40" height="40" />
+		<img src="icons/Git.svg" alt="git" width="40" height="40" />
 	</a>
 	<a href="https://www.gitea.com/" target="_blank">
 		<img src="img/gitea.png" alt="Gitea" width="40" height="40" />
 	</a>
 	<a href="https://github.com/" target="_blank">
-		<img src="img/github.png" alt="Github" width="40" height="40" />
+		<img src="icons/Github-Dark.svg" alt="Github" width="40" height="40" />
 	</a>
 	<a href="https://about.gitlab.com" target="_blank">
-		<img src="img/gitlab.png" alt="GitLab" width="40" height="40" />
+		<img src="icons/GitLab-Dark.svg" alt="GitLab" width="40" height="40" />
 	</a>
 </p>
 
 ##### Texteditor:
 <p align="left">
 	</a> <a href="https://www.sublimetext.com/" target="_blank">
-		<img src="img/sublime.png" alt="Sublime" width="40" height="40" />
+		<img src="icons/SublimeText.svg" alt="Sublime" width="40" height="40" />
 	</a>
 	</a> <a href="https://www.vim.org/" target="_blank">
-		<img src="img/vim.png" alt="Vim" width="40" height="40" />
+		<img src="icons/VIM-Dark.svg" alt="Vim" width="40" height="40" />
+	</a>
+	</a> <a href="https://www.eclipse.org/" target="_blank">
+		<img src="icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40" />
 	</a>
 </p>
 
 ##### Virtualisierung:
 <p align="left">
 	</a> <a href="https://www.docker.com/" target="_blank">
-		<img src="img/docker.png" alt="Docker" width="40" height="40" />
+		<img src="icons/Docker.svg" alt="Docker" width="40" height="40" />
 	</a>
 	</a> <a href="https://linuxcontainers.org/" target="_blank">
 		<img src="img/lxc.png" alt="LCX" width="40" height="40" />
@@ -225,7 +228,7 @@ Eine kleine Liste von Werkzeugen die ich benutze, mal aufgesetzt oder zumindeste
 ##### Monitoring:
 <p align="left">
 	</a> <a href="https://grafana.com/" target="_blank">
-		<img src="img/grafana.png" alt="Grafana" width="40" height="40" />
+		<img src="icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40" />
 	</a>
 	</a> <a href="https://www.librenms.org/" target="_blank">
 		<img src="img/Librenms.png" alt="Librenms" width="40" height="40" />
