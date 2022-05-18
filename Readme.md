@@ -27,29 +27,26 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 		<img src="icons/Arduino.svg" alt="arduino" width="40" height="40" />
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
-		<img src="img/bash.png" alt="bash" width="40" height="40" />
+		<img src="icons/Bash-Dark.svg" alt="bash" width="40" height="40" />
 	</a>
 	<a href="https://www.python.org" target="_blank">
-		<img src="img/python.png" alt="python" width="40" height="40" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="img/javascript.png" alt="javascript" width="40" height="40" />
+		<img src="icons/Python-Dark.svg" alt="python" width="40" height="40" />
 	</a>
 </p>
 
 ###### Wenig Erfahrung mit:
 <p align="left">
 	<a href="https://golang.org/" target="_blank">
-		<img src="img/go.png" alt="golandg" width="40" height="40" />
+		<img src="icons/GoLang.svg" alt="golandg" width="40" height="40" />
 	</a>
 	<a href="https://www.lua.org/start.html" target="_blank">
-		<img src="img/lua.png" alt="lua" width="40" height="40" />
+		<img src="icons/Lua-Dark.svg" alt="lua" width="40" height="40" />
 	</a>
 	<a href="https://www.php.net/" target="_blank">
-		<img src="img/php.png" alt="php" width="40" height="40" />
+		<img src="icons/PHP-Dark.svg" alt="php" width="40" height="40" />
 	</a>
 	<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
-		<img src="img/java.png" alt="java" width="40" height="40" />
+		<img src="icons/Java-Dark.svg" alt="java" width="40" height="40" />
 	</a>
 </p>
 
@@ -59,7 +56,7 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 		<img src="img/BS.png" alt="BeautifulSoup" width="40" height="40" />
 	</a>
 	<a href="https://flask.palletsprojects.com/" target="_blank">
-		<img src="img/flask.png" alt="flask" width="40" height="40" />
+		<img src="icons/Flask-Dark.svg" alt="flask" width="40" height="40" />
 	</a>
 	<a href="https://love2d.org/" target="_blank">
 		<img src="img/love2d.png" alt="love2d" width="40" height="40" />
@@ -75,19 +72,29 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 	</a>
 </p>
 
+##### Web:
+<p align="left">
+	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+		<img src="icons/HTML.svg" alt="HTML" width="40" height="40" />
+	</a>
+	<a href="https://www.w3.org/Style/CSS/" target="_blank">
+		<img src="icons/CSS.svg" alt="CSS" width="40" height="40" />
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img src="icons/JavaScript.svg" alt="javascript" width="40" height="40" />
+	</a>
+	<a href="https://getbootstrap.com/" target="_blank">
+		<img src="icons/Bootstrap.svg" alt="bootstrap" width="40" height="40" />
+	</a>
+</p>
+
 ##### Auszeichnungssprache:
 <p align="left">
-	<a href="https://www.w3.org/Style/CSS/" target="_blank">
-		<img src="img/css.png" alt="CSS" width="40" height="40" />
-	</a>
-	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-		<img src="img/html.png" alt="HTML" width="40" height="40" />
-	</a>
 	<a href="https://www.latex-project.org/" target="_blank">
-		<img src="img/LaTex.png" alt="LaTex" width="80" height="40" />
+		<img src="icons/LaTeX.svg" alt="LaTex" width="80" height="40" />
 	</a>
 	<a href="https://daringfireball.net/projects/markdown/" target="_blank">
-		<img src="img/Markdown.png" alt="Markdown" width="40" height="40" />
+		<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
 	</a>
 </p>
 
@@ -314,7 +321,7 @@ And to check them for their security. My goal is to always develop and improve m
 ##### Programming languages:
 <p align="left">
 	<a href="https://www.arduino.cc/" target="_blank">
-		<img src="img/arduino.png" alt="arduino" width="40" height="40" />
+		<img src="icons/Arduino.svg" alt="arduino" width="40" height="40" />
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
 		<img src="img/bash.png" alt="bash" width="40" height="40" />
@@ -366,14 +373,24 @@ And to check them for their security. My goal is to always develop and improve m
 	</a>
 </p>
 
+##### Web:
+<p align="left">
+	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+		<img src="icons/HTML.svg" alt="HTML" width="40" height="40" />
+	</a>
+	<a href="https://www.w3.org/Style/CSS/" target="_blank">
+		<img src="icons/CSS.svg" alt="CSS" width="40" height="40" />
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img src="icons/JavaScript.svg" alt="javascript" width="40" height="40" />
+	</a>
+	<a href="https://getbootstrap.com/" target="_blank">
+		<img src="icons/Bootstrap.svg" alt="bootstrap" width="40" height="40" />
+	</a>
+</p>
+
 ##### Markup language:
 <p align="left">
-	<a href="https://www.w3.org/Style/CSS/" target="_blank">
-		<img src="img/css.png" alt="CSS" width="40" height="40" />
-	</a>
-	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-		<img src="img/html.png" alt="HTML" width="40" height="40" />
-	</a>
 	<a href="https://www.latex-project.org/" target="_blank">
 		<img src="img/LaTex.png" alt="LaTex" width="80" height="40" />
 	</a>
