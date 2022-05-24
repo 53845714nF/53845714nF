@@ -91,7 +91,7 @@ Mein Ziel ist es, mich immer weiter zu entwickeln und stets zu verbessern ðŸ§ ðŸ
 ##### Auszeichnungssprache:
 <p align="left">
 	<a href="https://www.latex-project.org/" target="_blank">
-		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="80" height="40" />
+		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="40" height="40" />
 	</a>
 	<a href="https://daringfireball.net/projects/markdown/" target="_blank">
 		<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
@@ -392,7 +392,7 @@ And to check them for their security. My goal is to always develop and improve m
 ##### Markup language:
 <p align="left">
 	<a href="https://www.latex-project.org/" target="_blank">
-		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="80" height="40" />
+		<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="40" height="40" />
 	</a>
 	<a href="https://daringfireball.net/projects/markdown/" target="_blank">
 		<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
