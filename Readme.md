@@ -16,17 +16,6 @@ And to check them for their security. My goal is to always develop and improve m
 <summary>
   Click👆
 </summary>
-
-
-<style>
-table, th, td, caption {
-  border: thin solid;
-}
-td {
-  font-weight: bold;
-}
-</style>
-
 <table>
 	<tr>
 		<th> Property </th>
