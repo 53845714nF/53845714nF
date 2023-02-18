@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Sebastian+%F0%9F%91%8B;Interested+in+IT+Security+%F0%9F%9B%A1%EF%B8%8F;Terminal+Guru+%F0%9F%92%BB;Parselmouth+Speaking+Python+%F0%9F%90%8D;Loves+open+source+software+%F0%9F%90%A7)](https://git.io/typing-svg)
 
-## About me
+### About me
 
 I'm a passionate open source enthusiast and am interested in making systems, networks and programs secure.
 And to check them for their security. My goal is to always develop and improve myself 🧠🏋️.
@@ -11,17 +11,12 @@ And to check them for their security. My goal is to always develop and improve m
 - ⚡ Fun fact: I love swimming 🏊‍♂️.
 - 📚 My Blog: [Hackwiki](https://www.hackwiki.de/)
 
-<br>
-
-### 🔨 Practical knowledge
-
-<br>
+#### 🔨 Practical knowledge
 <details>
 <summary>
   Click👆
 </summary>
 
-<br>
 
 <style>
 table, th, td, caption {
@@ -368,11 +363,7 @@ td {
 
 </details>
 
-<br>
-
-### 📈 Github statistics
-
-<br>
+#### 📈 Github statistics
 <details>
 <summary>
   Click👆
