@@ -357,6 +357,6 @@ And to check them for their security. My goal is to always develop and improve m
 <summary>
   Click👆
 </summary>
-<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true&theme=dark" />
-<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&show_icons=true&hide_border=true&theme=dark" />
+<img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true&theme=merko" />
+<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&exclude_repo=53845714nF,Format_String_Vulnerability,Hassle_of_the_Week,passwortunsicherheit&hide=HCL,Smarty,html&show_icons=true&hide_border=true&theme=merko" />
 </details>
