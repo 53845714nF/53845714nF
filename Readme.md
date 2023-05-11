@@ -53,8 +53,8 @@ And to check them for their security. My goal is to always develop and improve m
 				<a href="https://www.lua.org/start.html" target="_blank">
 					<img src="icons/Lua-Dark.svg" alt="lua" width="40" height="40" />
 				</a>
-				<a href="https://www.php.net/" target="_blank">
-					<img src="icons/PHP-Dark.svg" alt="php" width="40" height="40" />
+				<a href="https://www.typescriptlang.org/" target="_blank">
+					<img src="icons/TypeScript.svg" alt="Flask" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -63,17 +63,10 @@ And to check them for their security. My goal is to always develop and improve m
 		<td>Libraries and frameworks</td>
 		<td>
 			<p align="left">
+			</p>
+			<p align="left">
 				<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
 					<img src="img/BS.png" alt="BeautifulSoup" width="40" height="40" />
-				</a>
-				<a href="https://fastapi.tiangolo.com/" target="_blank">
-					<img src="icons/FastAPI.svg" alt="FastAPI" width="40" height="40" />
-				</a>
-				<a href="https://flask.palletsprojects.com/" target="_blank">
-					<img src="icons/Flask-Dark.svg" alt="Flask" width="40" height="40" />
-				</a>
-				<a href="https://graphql.org/" target="_blank">
-					<img src="icons/GraphQL-Dark.svg" alt="Flask" width="40" height="40" />
 				</a>
 				<a href="https://riverbankcomputing.com/" target="_blank">
 					<img src="img/pyqt.png" alt="PyQt" width="40" height="40" />
@@ -84,14 +77,14 @@ And to check them for their security. My goal is to always develop and improve m
 				<a herf="https://www.sqlalchemy.org/" target="_blank">
 					<img src="img/sqla.png" alt="Symfony" width="40" height="40" />
 				</a>
-				<a href="https://symfony.com/" target="_blank">
-					<img src="icons/Symfony-Dark.svg" alt="Symfony" width="40" height="40" />
+				<a herf="https://www.pygame.org/news" target="_blank">
+					<img src="img/pygame.png" alt="Symfony" width="40" height="40" />
 				</a>
-			</p>
+			</p>	
 		</td>
 	</tr>
 	<tr>
-		<td>Web Frontend Technologies</td>
+		<td>Web Technologies</td>
 		<td>
 			<p align="left">
 				<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -103,14 +96,41 @@ And to check them for their security. My goal is to always develop and improve m
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 					<img src="icons/JavaScript.svg" alt="javascript" width="40" height="40" />
 				</a>
+			</p>
+			<p align="left">
+				<a href="https://gohugo.io/" target="_blank">
+					<img src="img/hugo.png" alt="Hugo" width="40" height="40" />
+				</a>
 				<a href="https://getbootstrap.com/" target="_blank">
 					<img src="icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40" />
 				</a>
 				<a href="https://reactjs.org/" target="_blank">
 					<img src="icons/React-Dark.svg" alt="React" width="40" height="40" />
 				</a>
-				<a href="https://gohugo.io/" target="_blank">
-					<img src="img/hugo.png" alt="Hugo" width="40" height="40" />
+				<a href="https://vitejs.dev/" target="_blank">
+					<img src="icons/Vite-Dark.svg" alt="React" width="40" height="40" />
+				</a>
+			</p>
+			<p align="left">
+				<a href="https://www.djangoproject.com/" target="_blank">
+					<img src="icons/Django.svg" alt="FastAPI" width="40" height="40" />
+				</a>
+				<a href="https://flask.palletsprojects.com/" target="_blank">
+					<img src="icons/Flask-Dark.svg" alt="Flask" width="40" height="40" />
+				</a>
+				<a href="https://symfony.com/" target="_blank">
+					<img src="icons/Symfony-Dark.svg" alt="Symfony" width="40" height="40" />
+				</a>
+			</p>
+			<p align="left">
+				<a href="https://fastapi.tiangolo.com/" target="_blank">
+					<img src="icons/FastAPI.svg" alt="FastAPI" width="40" height="40" />
+				</a>
+				<a href="https://graphql.org/" target="_blank">
+					<img src="icons/GraphQL-Dark.svg" alt="Flask" width="40" height="40" />
+				</a>
+				<a href="https://pocketbase.io/" target="_blank">
+					<img src="img/pocketbase.png" alt="Flask" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -138,14 +158,6 @@ And to check them for their security. My goal is to always develop and improve m
 		<td>DevOps</td>
 		<td>
 			<p align="left">
-				<a href="https://aws.amazon.com/de/" target="_blank">
-					<img src="icons/AWS-Dark.svg" alt="git" width="40" height="40" />
-				</a>
-				<a href="https://www.digitalocean.com/" target="_blank">
-					<img src="icons/DigitalOcean.svg" alt="git" width="40" height="40" />
-				</a>
-			</p>
-			<p align="left">
 				<a href="https://git-scm.com/" target="_blank">
 					<img src="icons/Git.svg" alt="git" width="40" height="40" />
 				</a>
@@ -157,17 +169,6 @@ And to check them for their security. My goal is to always develop and improve m
 				</a>
 				<a href="https://about.gitlab.com" target="_blank">
 					<img src="icons/GitLab-Dark.svg" alt="GitLab" width="40" height="40" />
-				</a>
-			</p>
-			<p align="left">
-				<a herf="https://www.packer.io/" target="_blank">
-					<img src="icons/Packer.svg" alt="Packer" width="40" height="40" />
-				</a>
-				<a href="https://docs.saltproject.io/en/latest/" target="_blank">
-					<img src="img/salt.png" alt="Salt" width="40" height="40" />
-				</a>
-				<a herf="https://www.terraform.io/" target="_blank">
-					<img src="icons/Terraform.svg" alt="Terraform" width="40" height="40" />
 				</a>
 			</p>
 			<p align="left">
@@ -185,6 +186,17 @@ And to check them for their security. My goal is to always develop and improve m
 				</a>
 			</p>
 			<p align="left">
+				<a herf="https://www.packer.io/" target="_blank">
+					<img src="icons/Packer.svg" alt="Packer" width="40" height="40" />
+				</a>
+				<a href="https://docs.saltproject.io/en/latest/" target="_blank">
+					<img src="img/salt.png" alt="Salt" width="40" height="40" />
+				</a>
+				<a herf="https://www.terraform.io/" target="_blank">
+					<img src="icons/Terraform.svg" alt="Terraform" width="40" height="40" />
+				</a>
+			</p>
+			<p align="left">
 				<a href="https://www.atlassian.com/de/software/jira" target="_blank">
 					<img src="img/Jira.png" alt="Jira" width="40" height="40" />
 				</a> 
@@ -198,6 +210,14 @@ And to check them for their security. My goal is to always develop and improve m
 				</a> 
 				<a href="https://www.zabbix.com/" target="_blank">
 					<img src="img/Zabbix.png" alt="Zabbix" width="40" height="40" />
+				</a>
+			</p>
+			<p align="left">
+				<a href="https://aws.amazon.com/de/" target="_blank">
+					<img src="icons/AWS-Dark.svg" alt="git" width="40" height="40" />
+				</a>
+				<a href="https://www.digitalocean.com/" target="_blank">
+					<img src="icons/DigitalOcean.svg" alt="git" width="40" height="40" />
 				</a>
 			</p>
     	</td>
