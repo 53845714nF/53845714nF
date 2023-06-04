@@ -47,9 +47,6 @@ And to check them for their security. My goal is to always develop and improve m
 				<a href="https://golang.org/" target="_blank">
 					<img src="icons/GoLang.svg" alt="golandg" width="40" height="40" />
 				</a>
-				<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
-					<img src="icons/Java-Dark.svg" alt="java" width="40" height="40" />
-				</a>
 				<a href="https://www.lua.org/start.html" target="_blank">
 					<img src="icons/Lua-Dark.svg" alt="lua" width="40" height="40" />
 				</a>
@@ -86,17 +83,6 @@ And to check them for their security. My goal is to always develop and improve m
 	<tr>
 		<td>Web Technologies</td>
 		<td>
-			<p align="left">
-				<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-					<img src="icons/HTML.svg" alt="HTML" width="40" height="40" />
-				</a>
-				<a href="https://www.w3.org/Style/CSS/" target="_blank">
-					<img src="icons/CSS.svg" alt="CSS" width="40" height="40" />
-				</a>
-				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-					<img src="icons/JavaScript.svg" alt="javascript" width="40" height="40" />
-				</a>
-			</p>
 			<p align="left">
 				<a href="https://gohugo.io/" target="_blank">
 					<img src="img/hugo.png" alt="Hugo" width="40" height="40" />
@@ -150,6 +136,9 @@ And to check them for their security. My goal is to always develop and improve m
 				</a>
 				<a href="https://www.sqlite.org/index.html" target="_blank">
 					<img src="icons/SQLite.svg" alt="SQLite" width="40" height="40" />
+				</a>
+				<a href="https://weaviate.io/" target="_blank">
+					<img src="icons/weaviate.svg" alt="Weaviate" width="40" height="40" />
 				</a>
 			</p>
 		</td>
