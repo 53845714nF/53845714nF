@@ -181,7 +181,7 @@ And to check them for their security. My goal is to always develop and improve m
 				<a href="https://docs.saltproject.io/en/latest/" target="_blank">
 					<img src="img/salt.png" alt="Salt" width="40" height="40" />
 				</a>
-				<a herf="https://www.terraform.io/" target="_blank">
+				<a href="https://www.terraform.io/" target="_blank">
 					<img src="icons/Terraform.svg" alt="Terraform" width="40" height="40" />
 				</a>
 			</p>
@@ -367,5 +367,5 @@ And to check them for their security. My goal is to always develop and improve m
   Click👆
 </summary>
 <img alige="left" src="https://github-readme-stats.vercel.app/api?username=53845714nF&show_icons=true&hide_border=true&theme=merko" />
-<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&exclude_repo=53845714nF,Format_String_Vulnerability,think,Hassle_of_the_Week,passwortunsicherheit&hide=HCL,TeX,Smarty,html&show_icons=true&hide_border=true&theme=merko&layout=compact" />
+<img alige="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=53845714nF&langs_count=8&exclude_repo=53845714nF,Format_String_Vulnerability,think,Hassle_of_the_Week,passwortunsicherheit,linklist,hackwiki&hide=HCL,TeX,Smarty,html&show_icons=true&hide_border=true&theme=merko&layout=compact" />
 </details>
