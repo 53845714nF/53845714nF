@@ -34,21 +34,14 @@ And to check them for their security. My goal is to always develop and improve m
 				<a href="https://www.python.org" target="_blank">
 					<img src="icons/Python-Dark.svg" alt="python" width="40" height="40" />
 				</a>
-			</p>
-		</td>
-	<tr>
-	<tr>
-		<td>Languages I have less experience with</td>
-		<td>
-			<p align="left">
 				<a href="https://www.iso.org/standard/74528.html" target="_blank">
 					<img src="icons/C.svg" alt="C" width="40" height="40" />
 				</a>
+					<a href="https://isocpp.org/" target="_blank">
+					<img src="icons/CPP.svg" alt="C++" width="40" height="40" />
+				</a>
 				<a href="https://golang.org/" target="_blank">
 					<img src="icons/GoLang.svg" alt="golandg" width="40" height="40" />
-				</a>
-				<a href="https://www.lua.org/start.html" target="_blank">
-					<img src="icons/Lua-Dark.svg" alt="lua" width="40" height="40" />
 				</a>
 				<a href="https://www.typescriptlang.org/" target="_blank">
 					<img src="icons/TypeScript.svg" alt="Flask" width="40" height="40" />
@@ -56,30 +49,6 @@ And to check them for their security. My goal is to always develop and improve m
 			</p>
 		</td>
 	<tr>
-	<tr>
-		<td>Libraries and frameworks</td>
-		<td>
-			<p align="left">
-			</p>
-			<p align="left">
-				<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-					<img src="img/BS.png" alt="BeautifulSoup" width="40" height="40" />
-				</a>
-				<a href="https://riverbankcomputing.com/" target="_blank">
-					<img src="img/pyqt.png" alt="PyQt" width="40" height="40" />
-				</a>
-				<a href="https://selenium-python.readthedocs.io/" target="_blank">
-					<img src="icons/Selenium.svg" alt="Selenium" width="40" height="40" />
-				</a>
-				<a herf="https://www.sqlalchemy.org/" target="_blank">
-					<img src="img/sqla.png" alt="Symfony" width="40" height="40" />
-				</a>
-				<a herf="https://www.pygame.org/news" target="_blank">
-					<img src="img/pygame.png" alt="Symfony" width="40" height="40" />
-				</a>
-			</p>	
-		</td>
-	</tr>
 	<tr>
 		<td>Web Technologies</td>
 		<td>
@@ -117,6 +86,13 @@ And to check them for their security. My goal is to always develop and improve m
 				</a>
 				<a href="https://pocketbase.io/" target="_blank">
 					<img src="img/pocketbase.png" alt="Flask" width="40" height="40" />
+				</a>
+			</p>
+			<p align="left">
+				<a href="https://selenium-python.readthedocs.io/" target="_blank">
+					<img src="icons/Selenium.svg" alt="Selenium" width="40" height="40" />
+				<a href="https://www.postman.com/" target="_blank">
+					<img src="icons/Postman.svg" alt="Postman" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -228,55 +204,7 @@ And to check them for their security. My goal is to always develop and improve m
 					<img src="img/Volatility.png" alt="Volatility" width="40" height="40" />
 				</a>
 				<a href="https://www.wireshark.org/" target="_blank">
-					<img src="img/wireshark.png" alt="Wireshark" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>OS</td>
-		<td>
-			<p align="left">
-				<a href="https://www.alpinelinux.org/" target="_blank">
-					<img src="img/Alpine.png" alt="Alpine" width="40" height="40" />
-				</a>
-				<a href="https://www.debian.org/index.de.html" target="_blank">
-					<img src="img/Debian.png" alt="Debian" width="40" height="40" />
-				</a>
-				<a href="https://ubuntu.com/" target="_blank">
-					<img src="img/Ubuntu.png" alt="Ubuntu" width="40" height="40" />
-				</a>
-				<a href="https://www.kali.org/" target="_blank">
-					<img src="img/Kali.png" alt="Kali" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	<tr>
-	<tr>
-		<td>Backup</td>
-		<td>
-			<p align="left">
-				<a href="https://www.proxmox.com/en/proxmox-backup-server" target="_blank">
-					<img src="img/Proxmox.png" alt="Proxmox Backup" width="40" height="40" />
-				</a> 
-				<a href="https://restic.net/" target="_blank">
-					<img src="img/Restic.png" alt="Restic" width="40" height="40" />
-				</a>
-				<a href="https://github.com/teejee2008/timeshift" target="_blank">
-					<img src="img/timeshift.png" alt="Time Shift" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	<tr>
-	<tr>
-		<td>Network</td>
-		<td>
-			<p align="left">
-				<a href="https://www.ui.com/download/unifi/" target="_blank">
-					<img src="img/unifi.png" alt="UniFi Network Controller" width="40" height="40" />
-				</a>
-				<a href="https://openvpn.net/" target="_blank">
-					<img src="img/openvpn.png" alt="OpenVPN" width="40" height="40" />
+					<img src="img/Wireshark.png" alt="Wireshark" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -284,34 +212,11 @@ And to check them for their security. My goal is to always develop and improve m
 	<tr>
 		<td>Text Editors</td>
 		<td>
-			<p align="left">
-				<a href="https://www.eclipse.org/" target="_blank">
-					<img src="icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40" />
-				</a>
-				<a href="https://www.sublimetext.com/" target="_blank">
-					<img src="icons/SublimeText.svg" alt="Sublime" width="40" height="40" />
-				</a>
 				<a href="https://www.vim.org/" target="_blank">
 					<img src="icons/VIM-Dark.svg" alt="Vim" width="40" height="40" />
 				</a>
 				<a href="https://code.visualstudio.com/" target="_blank">
 					<img src="icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	</tr>
-	<tr> 
-		<td>Documentation</td>
-		<td>
-			<p align="left">
-				</a> <a href="https://www.bookstackapp.com/" target="_blank">
-					<img src="img/Bookstack.png" alt="Bookstack" width="40" height="40" />
-				</a>
-				</a> <a href="https://hedgedoc.org/" target="_blank">
-					<img src="img/HedgeDoc.png" alt="HedgeDoc" width="40" height="40" />
-				</a>
-				</a> <a href="https://www.dokuwiki.org/dokuwiki" target="_blank">
-					<img src="img/dokuwiki.png" alt="Doku Wiki" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -325,34 +230,6 @@ And to check them for their security. My goal is to always develop and improve m
 				</a>
 				<a href="https://daringfireball.net/projects/markdown/" target="_blank">
 					<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>Other Tools</td>
-		<td>
-			<p align="left">
-				<a href="https://www.home-assistant.io/" target="_blank">
-					<img src="img/HA.png" alt="Home Assistant" width="40" height="40" />
-				</a>
-				<a href="https://meet.jit.si/" target="_blank">
-					<img src="img/jitsi.png" alt="Jitsi" width="40" height="40" />
-				</a>
-				<a href="https://nextcloud.com/" target="_blank">
-					<img src="img/nextcloud.png" alt="Nextcloud" width="80" height="40" />
-				</a>
-				<a href="https://de.overleaf.com/" target="_blank">
-					<img src="img/overleaf.png" alt="Overleaf" width="40" height="40" />
-				</a>
-				<a href="https://www.postman.com/" target="_blank">
-					<img src="icons/Postman.svg" alt="Postman" width="40" height="40" />
-				</a>
-				<a href="https://psono.com/" target="_blank">
-					<img src="img/psono.png" alt="Psono" width="40" height="40" />
-				</a>
-				<a href="https://www.univention.de/produkte/ucs/" target="_blank">
-					<img src="img/ucs.png" alt="UCS" width="40" height="40" />
 				</a>
 			</p>
 		</td>
