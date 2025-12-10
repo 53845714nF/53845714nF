@@ -7,7 +7,7 @@ And to check them for their security. My goal is to always develop and improve m
 
 - 🔭 I'm currently studying Computer Science at the University of Applied Sciences Brandenburg.
 - 📣 PR Manager for [Brandenburger Linux User Group](https://www.bralug.de/) 🐧.
-- 🔎 Assists malware attribution research with a focus on image steganography [UNI Magdeburg Attribut](https://omen.cs.uni-magdeburg.de/itiamsl/english/attribut/attribut.html).
+- 🔎 Assists malware attribution research with a focus on image steganography [University Magdeburg Attribut](https://omen.cs.uni-magdeburg.de/itiamsl/english/attribut/attribut.html).
 - 👯 Sometimes you can meet me at [Chaostreff Potsdam](https://www.ccc-p.org/) 🚀.
 - ⚡ Fun fact: I love swimming 🏊‍♂️.
 - 📚 My Blog: [Hackwiki](https://www.hackwiki.de/)
