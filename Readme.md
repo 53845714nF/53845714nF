@@ -3,7 +3,7 @@
 ### About me
 
 I'm a passionate open source enthusiast and am interested in making systems, networks and programs secure.
-And to check them for their security. My goal is to always develop and improve myself 🧠🏋️.
+And to check them for their security.
 
 - 🔭 I'm currently studying Computer Science at the University of Applied Sciences Brandenburg.
 - 📣 PR Manager for [Brandenburger Linux User Group](https://www.bralug.de/) 🐧.
