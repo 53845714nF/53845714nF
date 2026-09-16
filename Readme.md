@@ -56,14 +56,8 @@ And to check them for their security.
 				<a href="https://gohugo.io/" target="_blank">
 					<img src="img/hugo.png" alt="Hugo" width="40" height="40" />
 				</a>
-				<a href="https://getbootstrap.com/" target="_blank">
-					<img src="icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40" />
-				</a>
 				<a href="https://reactjs.org/" target="_blank">
 					<img src="icons/React-Dark.svg" alt="React" width="40" height="40" />
-				</a>
-				<a href="https://vitejs.dev/" target="_blank">
-					<img src="icons/Vite-Dark.svg" alt="React" width="40" height="40" />
 				</a>
 			</p>
 			<p align="left">
@@ -86,13 +80,6 @@ And to check them for their security.
 				</a>
 				<a href="https://pocketbase.io/" target="_blank">
 					<img src="img/pocketbase.png" alt="Flask" width="40" height="40" />
-				</a>
-			</p>
-			<p align="left">
-				<a href="https://selenium-python.readthedocs.io/" target="_blank">
-					<img src="icons/Selenium.svg" alt="Selenium" width="40" height="40" />
-				<a href="https://www.postman.com/" target="_blank">
-					<img src="icons/Postman.svg" alt="Postman" width="40" height="40" />
 				</a>
 			</p>
 		</td>
@@ -199,9 +186,6 @@ And to check them for their security.
 				</a>
 				<a href="https://nmap.org/" target="_blank">
 					<img src="img/nmap.png" alt="Nmap" width="40" height="40" />
-				</a>
-				<a href="https://www.volatilityfoundation.org/" target="_blank">
-					<img src="img/Volatility.png" alt="Volatility" width="40" height="40" />
 				</a>
 				<a href="https://www.wireshark.org/" target="_blank">
 					<img src="img/Wireshark.png" alt="Wireshark" width="40" height="40" />
