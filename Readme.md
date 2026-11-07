@@ -193,31 +193,6 @@ And to check them for their security.
 			</p>
 		</td>
 	</tr>
-	<tr>
-		<td>Text Editors</td>
-		<td>
-				<a href="https://www.vim.org/" target="_blank">
-					<img src="icons/VIM-Dark.svg" alt="Vim" width="40" height="40" />
-				</a>
-				<a href="https://code.visualstudio.com/" target="_blank">
-					<img src="icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	</tr>
-	<tr> 
-		<td>Markup language</td>
-		<td>
-			<p align="left">
-				<a href="https://www.latex-project.org/" target="_blank">
-					<img src="icons/LaTeX-Dark.svg" alt="LaTex" width="40" height="40" />
-				</a>
-				<a href="https://daringfireball.net/projects/markdown/" target="_blank">
-					<img src="icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
-				</a>
-			</p>
-		</td>
-	</tr>
 </table>
 
 </details>
